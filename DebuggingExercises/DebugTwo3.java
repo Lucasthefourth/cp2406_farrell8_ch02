@@ -1,5 +1,4 @@
 public class DebugTwo3
-// Demonstrates remainder and output
 {
    public static void main(String args[])
    {
